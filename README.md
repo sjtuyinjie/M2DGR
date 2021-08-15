@@ -13,11 +13,21 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 
 ## 2.Dataset Sequences
 [Download Link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/594666_sjtu_edu_cn/EstgRJm8ufVIhiol5_D47pwBy94k-uKVH6IFYe5p95hqdw?e=SkYPSe)
-### 2.1 gate3
+### 2.1 Outdoors
 Sequence Name|Collection Date|Total Size|Duration|Features
 --|:--|:--:|--:|--:
-street_01|2021-08-14|xxg|xxs|dark,long-term
-street_01|2021-08-14|xxg|xxs|dark,long-term
+street_01|2021-08-14|xxg|xxs|street and buildings,night,zigzag,long-term
+street_02|2021-08-14|xxg|xxs|day,long-term
+street_03|2021-08-14|xxg|xxs|night,back and fourth,full speed
+street_04|2021-08-14|xxg|xxs|night,around lawn,loop back
+street_05|2021-08-14|xxg|xxs|night,staight line
+street_06|2021-08-14|xxg|xxs|night,one turn
+street_07|2021-08-14|xxg|xxs|dawn,zigzag,sharp turns
+street_08|2021-08-14|xxg|xxs|night,loop back,zigzag
+street_09|2021-08-14|xxg|xxs|day,zigzag
+street_010|2021-08-14|xxg|xxs|day,zigzag
+
+
 
 ## 3.Development Toolkits
 ### 3.1 to fetch images
