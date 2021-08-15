@@ -27,7 +27,15 @@ street_08|2021-08-14|xxg|xxs|night,loop back,zigzag
 street_09|2021-08-14|xxg|xxs|day,zigzag
 street_010|2021-08-14|xxg|xxs|day,zigzag
 
-
+### 2.2 Indoors
+Sequence Name|Collection Date|Total Size|Duration|Features
+--|:--|:--:|--:|--:
+room_01|2021-08-14|xxg|xxs|street and buildings,night,zigzag,long-term
+room_02|2021-08-14|xxg|xxs|day,long-term
+room_03|2021-08-14|xxg|xxs|night,back and fourth,full speed
+room_dark_01|2021-08-14|xxg|xxs|street and buildings,night,zigzag,long-term
+room_dark_02|2021-08-14|xxg|xxs|day,long-term
+room_dark_03|2021-08-14|xxg|xxs|night,back and fourth,full speed
 
 ## 3.Development Toolkits
 ### 3.1 to fetch images
