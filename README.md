@@ -13,8 +13,7 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 
 ## 2.Dataset Sequences
 ### 2.1 gate3
-姓名|技能|排行
---|:--:|--:|--:
 Collection Date|Total Size|Duration|Features
+--|:--:|--:|--:
 2021-08-14|xxg|xxs|dark,long-term
 
