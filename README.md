@@ -14,7 +14,7 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 ## 2.Dataset Sequences
 ### 2.1 gate3
 姓名|技能|排行
---|:--:|--:
-刘备|哭|大哥
-关羽|打|二哥
-张飞|骂|三弟
+--|:--:|--:|--:
+Collection Date|Total Size|Duration|Features
+2021-08-14|xxg|xxs|dark,long-term
+
