@@ -38,7 +38,7 @@ street_07|2021-08-06|77.2g|929s|dawn,zigzag,sharp turns|[Download Link](https://
 street_08|2021-08-06|31.2g|491s|night,loop back,zigzag|[Download Link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/594666_sjtu_edu_cn/EstgRJm8ufVIhiol5_D47pwBy94k-uKVH6IFYe5p95hqdw?e=SkYPSe)
 street_09|2021-08-07|83.2g|907s|day,zigzag|[Download Link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/594666_sjtu_edu_cn/EstgRJm8ufVIhiol5_D47pwBy94k-uKVH6IFYe5p95hqdw?e=SkYPSe)
 street_010|2021-08-07|86.2g|910s|day,zigzag|[Download Link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/594666_sjtu_edu_cn/EstgRJm8ufVIhiol5_D47pwBy94k-uKVH6IFYe5p95hqdw?e=SkYPSe)
-
+walk_01|2021-08-04|21.5g|291s|day,back and fourth|[Download Link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/594666_sjtu_edu_cn/EstgRJm8ufVIhiol5_D47pwBy94k-uKVH6IFYe5p95hqdw?e=SkYPSe)
 ### 2.2 Indoors
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
@@ -48,7 +48,12 @@ hall_03|2021-08-08|20.5g|164s|randon walk|[Download Link](https://sjtueducn-my.s
 hall_04|2021-08-15|17.7g|181s|randon walk|[Download Link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/594666_sjtu_edu_cn/EstgRJm8ufVIhiol5_D47pwBy94k-uKVH6IFYe5p95hqdw?e=SkYPSe)
 hall_05|2021-08-15|35.1g|402s|circle|[Download Link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/594666_sjtu_edu_cn/EstgRJm8ufVIhiol5_D47pwBy94k-uKVH6IFYe5p95hqdw?e=SkYPSe)
 
-
+Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
+--|:--|:--:|--:|--:|--:
+lift_01|2021-08-04|18.4g|225s|randon walk|[Download Link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/594666_sjtu_edu_cn/EstgRJm8ufVIhiol5_D47pwBy94k-uKVH6IFYe5p95hqdw?e=SkYPSe)
+lift_02|2021-08-04|43.6g|488s|randon walk|[Download Link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/594666_sjtu_edu_cn/EstgRJm8ufVIhiol5_D47pwBy94k-uKVH6IFYe5p95hqdw?e=SkYPSe)
+lift_03|2021-08-15|22.3g|252s|randon walk|[Download Link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/594666_sjtu_edu_cn/EstgRJm8ufVIhiol5_D47pwBy94k-uKVH6IFYe5p95hqdw?e=SkYPSe)
+lift_04|2021-08-15|27.8g|299s|randon walk|[Download Link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/594666_sjtu_edu_cn/EstgRJm8ufVIhiol5_D47pwBy94k-uKVH6IFYe5p95hqdw?e=SkYPSe)
 
 Sequence Name|Collection Date|Total Size|Duration|Features
 --|:--|:--:|--:|--:
