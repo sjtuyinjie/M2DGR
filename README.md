@@ -43,12 +43,15 @@ street_02|2021-08-14|xxg|xxs|day,long-term|[Download Link](https://sjtueducn-my.
 
 Sequence Name|Collection Date|Total Size|Duration|Features
 --|:--|:--:|--:|--:
-hall_01|2021-08-14|xxg|xxs|street and buildings,night,zigzag,long-term
-hall_02|2021-08-14|xxg|xxs|day,long-term
-hall_03|2021-08-14|xxg|xxs|night,back and fourth,full speed
-hall_04|2021-08-14|xxg|xxs|street and buildings,night,zigzag,long-term
-hall_05|2021-08-14|xxg|xxs|day,long-term
-hall_06|2021-08-14|xxg|xxs|night,back and fourth,full speed
+room_01|2021-08-14|14.0g|72s|street and buildings,night,zigzag,long-term
+room_02|2021-08-14|15.2g|xxs|day,long-term
+room_03|2021-08-14|26.1g|xxs|night,back and fourth,full speed
+room_dark_01|2021-08-14|20.2g|xxs|street and buildings,night,zigzag,long-term
+room_dark_02|2021-08-14|30.3g|xxs|day,long-term
+room_dark_03|2021-08-14|22.7g|xxs|night,back and fourth,full speed
+room_dark_04|2021-08-14|29.3g|xxs|street and buildings,night,zigzag,long-term
+room_dark_05|2021-08-14|33.0g|xxs|day,long-term
+room_dark_06|2021-08-14|35.6g|xxs|night,back and fourth,full speed
 
 ### 2.3 alternative indoors and outdoors
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
