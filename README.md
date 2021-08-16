@@ -37,8 +37,12 @@ street_010|2021-08-07|86.2g|910s|day,zigzag|[Download Link](https://sjtueducn-my
 ### 2.2 Indoors
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
-street_01|2021-08-14|xxg|xxs|street and buildings,night,zigzag,long-term|[Download Link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/594666_sjtu_edu_cn/EstgRJm8ufVIhiol5_D47pwBy94k-uKVH6IFYe5p95hqdw?e=SkYPSe)
-street_02|2021-08-14|xxg|xxs|day,long-term|[Download Link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/594666_sjtu_edu_cn/EstgRJm8ufVIhiol5_D47pwBy94k-uKVH6IFYe5p95hqdw?e=SkYPSe)
+hall_01|2021-08-01|29.1g|351s|randon walk|[Download Link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/594666_sjtu_edu_cn/EstgRJm8ufVIhiol5_D47pwBy94k-uKVH6IFYe5p95hqdw?e=SkYPSe)
+hall_02|2021-08-08|15.0g|128s|randon walk|[Download Link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/594666_sjtu_edu_cn/EstgRJm8ufVIhiol5_D47pwBy94k-uKVH6IFYe5p95hqdw?e=SkYPSe)
+hall_03|2021-08-08|20.5g|164s|randon walk|[Download Link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/594666_sjtu_edu_cn/EstgRJm8ufVIhiol5_D47pwBy94k-uKVH6IFYe5p95hqdw?e=SkYPSe)
+hall_04|2021-08-15|17.7g|181s|randon walk|[Download Link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/594666_sjtu_edu_cn/EstgRJm8ufVIhiol5_D47pwBy94k-uKVH6IFYe5p95hqdw?e=SkYPSe)
+hall_05|2021-08-15|35.1g|402s|circle|[Download Link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/594666_sjtu_edu_cn/EstgRJm8ufVIhiol5_D47pwBy94k-uKVH6IFYe5p95hqdw?e=SkYPSe)
+
 
 
 Sequence Name|Collection Date|Total Size|Duration|Features
@@ -50,8 +54,8 @@ room_dark_01|2021-07-30|20.2g|111s|street and buildings,night,zigzag,long-term
 room_dark_02|2021-07-30|30.3g|165s|day,long-term
 room_dark_03|2021-07-30|22.7g|116s|night,back and fourth,full speed
 room_dark_04|2021-08-15|29.3g|143s|street and buildings,night,zigzag,long-term
-room_dark_05|2021-08-15|33.0g|xxs|day,long-term
-room_dark_06|2021-08-15|35.6g|xxs|night,back and fourth,full speed
+room_dark_05|2021-08-15|33.0g|159s|day,long-term
+room_dark_06|2021-08-15|35.6g|172s|night,back and fourth,full speed
 
 ### 2.3 alternative indoors and outdoors
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
