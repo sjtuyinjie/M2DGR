@@ -16,6 +16,13 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 ### 2.1 Outdoors
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
+gate_01|2021-07-31|16.4g|172s|dark,around gate|[Download Link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/594666_sjtu_edu_cn/EstgRJm8ufVIhiol5_D47pwBy94k-uKVH6IFYe5p95hqdw?e=SkYPSe)
+gate_02|2021-07-31|27.3g|327s|dark,loop back|[Download Link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/594666_sjtu_edu_cn/EstgRJm8ufVIhiol5_D47pwBy94k-uKVH6IFYe5p95hqdw?e=SkYPSe)
+gate_03|2021-08-04|21.9g|283s|day|[Download Link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/594666_sjtu_edu_cn/EstgRJm8ufVIhiol5_D47pwBy94k-uKVH6IFYe5p95hqdw?e=SkYPSe)
+
+
+Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
+--|:--|:--:|--:|--:|--:
 street_01|2021-08-14|xxg|xxs|street and buildings,night,zigzag,long-term|[Download Link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/594666_sjtu_edu_cn/EstgRJm8ufVIhiol5_D47pwBy94k-uKVH6IFYe5p95hqdw?e=SkYPSe)
 street_02|2021-08-14|xxg|xxs|day,long-term|[Download Link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/594666_sjtu_edu_cn/EstgRJm8ufVIhiol5_D47pwBy94k-uKVH6IFYe5p95hqdw?e=SkYPSe)
 street_03|2021-08-14|xxg|xxs|night,back and fourth,full speed|[Download Link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/594666_sjtu_edu_cn/EstgRJm8ufVIhiol5_D47pwBy94k-uKVH6IFYe5p95hqdw?e=SkYPSe)
@@ -28,16 +35,27 @@ street_09|2021-08-14|xxg|xxs|day,zigzag|[Download Link](https://sjtueducn-my.sha
 street_010|2021-08-14|xxg|xxs|day,zigzag|[Download Link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/594666_sjtu_edu_cn/EstgRJm8ufVIhiol5_D47pwBy94k-uKVH6IFYe5p95hqdw?e=SkYPSe)
 
 ### 2.2 Indoors
+Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
+--|:--|:--:|--:|--:|--:
+street_01|2021-08-14|xxg|xxs|street and buildings,night,zigzag,long-term|[Download Link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/594666_sjtu_edu_cn/EstgRJm8ufVIhiol5_D47pwBy94k-uKVH6IFYe5p95hqdw?e=SkYPSe)
+street_02|2021-08-14|xxg|xxs|day,long-term|[Download Link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/594666_sjtu_edu_cn/EstgRJm8ufVIhiol5_D47pwBy94k-uKVH6IFYe5p95hqdw?e=SkYPSe)
+
+
 Sequence Name|Collection Date|Total Size|Duration|Features
 --|:--|:--:|--:|--:
-room_01|2021-08-14|xxg|xxs|street and buildings,night,zigzag,long-term
-room_02|2021-08-14|xxg|xxs|day,long-term
-room_03|2021-08-14|xxg|xxs|night,back and fourth,full speed
-room_dark_01|2021-08-14|xxg|xxs|street and buildings,night,zigzag,long-term
-room_dark_02|2021-08-14|xxg|xxs|day,long-term
-room_dark_03|2021-08-14|xxg|xxs|night,back and fourth,full speed
+hall_01|2021-08-14|xxg|xxs|street and buildings,night,zigzag,long-term
+hall_02|2021-08-14|xxg|xxs|day,long-term
+hall_03|2021-08-14|xxg|xxs|night,back and fourth,full speed
+hall_04|2021-08-14|xxg|xxs|street and buildings,night,zigzag,long-term
+hall_05|2021-08-14|xxg|xxs|day,long-term
+hall_06|2021-08-14|xxg|xxs|night,back and fourth,full speed
 
 ### 2.3 alternative indoors and outdoors
+Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
+--|:--|:--:|--:|--:|--:
+door_01|2021-08-04|35.5g|461s|outdoor to indoor to outdoor,long-term|[Download Link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/594666_sjtu_edu_cn/EstgRJm8ufVIhiol5_D47pwBy94k-uKVH6IFYe5p95hqdw?e=SkYPSe)
+door_02|2021-08-04|10.5g|127s|outdoor to indoor,short-term|[Download Link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/594666_sjtu_edu_cn/EstgRJm8ufVIhiol5_D47pwBy94k-uKVH6IFYe5p95hqdw?e=SkYPSe)
+
 
 ## 3.Development Toolkits
 ### 3.1 to fetch images
