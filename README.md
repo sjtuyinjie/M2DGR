@@ -76,6 +76,8 @@ door_02|2021-08-04|10.5g|127s|outdoor to indoor,short-term|[Download Link](https
 
 ## 3.Development Toolkits
 ### 3.1 to fetch images
+For rosbag users,just type 
+rosrun
 ### 3.2 to get renix files
 ### 3.3 ROS drivers for UVC cameras 
 ### 3.4 other tools
