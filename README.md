@@ -12,8 +12,9 @@ keywords:Dataset, Multi-model, Multi-scenario,Ground Robot
 ## 1.Sensor Setup
 
 ## 2.Dataset Sequences
-[Download Link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/594666_sjtu_edu_cn/EstgRJm8ufVIhiol5_D47pwBy94k-uKVH6IFYe5p95hqdw?e=SkYPSe)
+
 ### 2.1 Outdoors
+![image](https://github.com/sjtuyinjie/mypics/outdoortraj.jpg)
 Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
 gate_01|2021-07-31|16.4g|172s|dark,around gate|[Download Link](https://sjtueducn-my.sharepoint.com/:u:/g/personal/594666_sjtu_edu_cn/ET3mU1rvdTpEl8VYvC25q7YByl369y6Hx_OQScBkKlnHXA?e=0nyQkj)
