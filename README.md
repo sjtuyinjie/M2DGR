@@ -31,7 +31,7 @@ Sequence Name|Collection Date|Total Size|Duration|Features|Download Link
 --|:--|:--:|--:|--:|--:
 street_01|2021-08-06|75.8g|1028s|street and buildings,night,zigzag,long-term|[Download Link](https://sjtueducn-my.sharepoint.com/:u:/g/personal/594666_sjtu_edu_cn/EavjoipiTMRIjUvmodSGGsoBrIMv4ElpI-QgR6fvOHcRHg?e=k4cOxf)
 street_02|2021-08-03|83.2g|1227s|day,long-term|[Download Link](https://sjtueducn-my.sharepoint.com/:u:/g/personal/594666_sjtu_edu_cn/EQj5QBBHONpFj-hlvXOQBr0BJ53Dk75Jbky_ZfnKGFJbAg?e=BGqGMI)
-street_03|2021-08-06|21.3g|354s|night,back and fourth,full speed|[Download Link](https://sjtueducn-my.sharepoint.com/:f:/g/personal/594666_sjtu_edu_cn/EstgRJm8ufVIhiol5_D47pwBy94k-uKVH6IFYe5p95hqdw?e=SkYPSe)
+street_03|2021-08-06|21.3g|354s|night,back and fourth,full speed|[Download Link](https://sjtueducn-my.sharepoint.com/:u:/g/personal/594666_sjtu_edu_cn/EQU95R6TOAZIkaoFuHJLU-kB2d1_lG_PDyKXLgBR8HZMpg?e=Al6RKZ)
 street_04|2021-08-03|48.7g|858s|night,around lawn,loop back|[Download Link](https://sjtueducn-my.sharepoint.com/:u:/g/personal/594666_sjtu_edu_cn/Ea72BxSXFYhDrp_FGNlJ2ukBr785CgH9qyf3WrXD5U2WKw?e=xhMPJa)
 street_05|2021-08-04|27.4g|469s|night,staight line|[Download Link](https://sjtueducn-my.sharepoint.com/:u:/g/personal/594666_sjtu_edu_cn/EUClV6vL2zhAicOwwO1WiroBriM6faiGfy1yvM6EY1bVCw?e=pcoEPd)
 street_06|2021-08-04|35.0g|494s|night,one turn|[Download Link](https://sjtueducn-my.sharepoint.com/:u:/g/personal/594666_sjtu_edu_cn/EZ4HAXvNQXRCgRKSLpE3yX0BcKx_NkQ3lG5H481dDeAg5Q?e=Dz1Nkh)
